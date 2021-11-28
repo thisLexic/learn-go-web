@@ -1,0 +1,1 @@
+Counts how many times the browser has visited this domain using a cookie
